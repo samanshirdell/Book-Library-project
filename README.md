@@ -15,12 +15,12 @@ Welcome to the **Library Management System**! This project is a simple, interact
 
 1. **Clone this repository**:
    ```bash
-   git clone https://github.com/your-username/library-management-system.git
-   cd library-management-system
+   git clone https://github.com/samanshirdell/Book-Library-project
+   cd Book-Library-project
  ‍‍‍‍‍  ```
 2. **Run the program:** Make sure you have Python installed. Then, run the script:
    ```bash
-   python library.py
+   python book.py
    ```
 
 ## 📋 Usage
@@ -31,5 +31,17 @@ Once the program starts, you'll be greeted with a main menu with several options
 3. **Remove Book:** Remove a book from the library inventory.
 4. **Search Book:** Search for a book by title to check availability.
 5. **Spend Book:** Lend a specified number of copies of a book to a member.
+
+# Example Workflow
+1. **Run the script:**
+   ```bash
+   python book.py
+   ```
+2. Choose an option from the main menu.
+3. Follow prompts to perform tasks (e.g., register members, add books, etc.).
+4. Exit the program by closing the console.
+
+## 📁 File Structure
+
 
 
