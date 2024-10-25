@@ -43,5 +43,20 @@ Once the program starts, you'll be greeted with a main menu with several options
 
 ## 📁 File Structure
 
+- **library.py:** Main script that contains the application logic.
+- **outputs.csv:** CSV file where the book inventory is saved after each addition.
+
+## 🤝 Contributing
+1. Fork the project.
+2. Create your feature branch (git checkout -b feature/AmazingFeature).
+3. Commit your changes (git commit -m 'Add AmazingFeature').
+4. Push to the branch (git push origin feature/AmazingFeature).
+5. Open a pull request.
+
+## 💡 Acknowledgements
+Special thanks to the creators of the Python ```csv``` library for making data handling easy in this project.
+
+
+
 
 
