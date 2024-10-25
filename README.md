@@ -17,7 +17,7 @@ Welcome to the **Library Management System**! This project is a simple, interact
    ```bash
    git clone https://github.com/samanshirdell/Book-Library-project
    cd Book-Library-project
- ‍‍‍‍‍  ```
+
 2. **Run the program:** Make sure you have Python installed. Then, run the script:
    ```bash
    python book.py
